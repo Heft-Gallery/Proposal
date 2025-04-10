@@ -1,0 +1,82 @@
+
+ADVAN SHUMISKI                                                      PROJECT TYPE
+                                                                    WEBSITE
+
+---------------------------------------------------------------
+
+                                                                    CLIENT
+                                                                    HEFT GALLERY
+
+---------------------------------------------------------------
+
+Thursday, 10 April 2025
+
+---------------------------------------------------------------
+
+Description                     Institutional website for Heft Gallery, including UX/UI,
+                                development and project management, from ideation and 
+                                structuring to final deploy.
+
+                                The maing structure includes: Home, Artists and Shows,
+                                Stories, Calendar, Program, Goods.
+                                
+                                Technical details include the implementation of a CMS,
+                                and integration with the framework to be provided by
+                                Verse, including artworks display and mint experience.
+                                
+                                
+                                
+
+                                
+                                
+                                
+Timeline                        The delivery of the project will be defined into phases,
+                                starting by implementing some of the features, and to
+                                keep evolving until it reaches its final complete form.
+                                
+                                
+                                APRIL 23
+                                
+                                - Homepage;
+                                - Program;
+                                - Artworks & Shows – for first show, but extensible;
+                                - Primary sale project page – integrate Verse widget 
+                                  and customize css.
+                                  
+                                JUNE 2
+                                
+                                - Remaining structure of Artworks & Shows;
+                                - Stories;
+                                - Calendar;
+                                - Goods - Pointing to shopify.
+                                
+                                
+                                
+                                
+                                
+Stack                           Vercel, Javascript, Next.js, CMS                              
+                                
+---------------------------------------------------------------
+
+Investment                                                          USD100/Hour
+                                                                    
+                                                                    PHASE 1 ESTIMATE
+                                                                    50-60 Hours
+                                                                    
+                                                                    PHASE 2 ESTIMATE
+                                                                    30-40 Hours
+
+---------------------------------------------------------------                                
+
+Payment                         By the end of each phase, through USDC or wire transfer.
+
+
+
+
+
+
+
+
+---------------------------------------------------------------
+
+
